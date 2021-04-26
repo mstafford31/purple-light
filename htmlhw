@@ -2,7 +2,6 @@
 <html>
 
 <head>
-		/>
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 	<title>Week 5 Homework</title>
 	<meta charset="UTF-8" />
