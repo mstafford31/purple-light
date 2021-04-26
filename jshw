@@ -84,3 +84,5 @@ let currentLocationButton = document.querySelector("#current-location-button");
 currentLocationButton.addEventListener("click", getCurrentLocation);
 
 searchCity("Washington,D.C.");
+
+https://github.com/mstafford31/purple-light/blob/main/jshw
